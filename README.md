@@ -20,4 +20,5 @@ This is a **non-commercial fan project** based on character abilities from the T
 Touhou Project © Team Shanghai Alice / ZUN.
 
  (Inspired by https://randomtouhougen.neocities.org/) </br>
+ 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
