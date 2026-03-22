@@ -1,7 +1,7 @@
 # 2huCombinedAbilityGenerator
 A generator that lets you combine the powers of two Touhou characters into one. </br>
 
-http://tiny.cc/uvo0101
+http://tiny.cc/2hu
 
 For fun, I thought of an innovative website idea that would combine the abilities of two touhou characters into one. </br>
 
