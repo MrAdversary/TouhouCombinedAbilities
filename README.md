@@ -14,9 +14,8 @@ For fun, I thought of an innovative website idea that would combine the abilitie
 - 20+ characters embedded
 - Unique character pairing
 
-## Note
+---
 
-This is a **non-commercial fan project** based on character abilities from the Touhou Project. </br>
 Touhou Project © Team Shanghai Alice / ZUN.
 
  (Inspired by https://randomtouhougen.neocities.org/) </br>
