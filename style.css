@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #A44A3F;
+  min-height: 100vh;
+  margin: 0;
+
+  background-image: url("https://files.catbox.moe/7g2nb6.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.container{
+  width: 550px;
+  height: 450px;
+}
+.header{
+  text-align: center;
+  margin-bottom: 50px;
+    text-shadow:  
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+}
+.header h2{
+  font-weight: 400;
+  color: #FAFFD8
+}
+.main-content{
+  width: 100%;
+  height: 300px;
+  padding: 50px 40px;
+  background-color: #F19C79;
+  background-image: url("https://files.catbox.moe/0mme30.jpg");
+  border-radius: 18px;
+  box-shadow: 0 25px 31px rgba(44,29,29,.5);
+}
+.text-area{
+  text-align: center;
+  font-size: 25px;
+  color: #E3EEFF;
+  line-height: 1.5;
+  text-shadow: 
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+}
+.main-content .button-area{
+  display: grid;
+  place-items: center;
+  margin-top: 20px;
+  padding: 10px 0;
+}
+.button-area .btn button{
+  background-color: #F3F7FF;
+  color: #001025;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px rgba(67, 40, 24, 0.2);
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  padding: 12px 15px;
+}
+.button-area .btn button:active{
+  background-color: #4A71A9; 
+}
